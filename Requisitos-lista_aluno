@@ -1,6 +1,5 @@
 No arquivo "lista_aluno", precisa-se refinar o esquema de cores em prol de uma melhor vizualização;
-Organizarlayout do cadastro aluno;
-Padronizar e organizar nomeação;
-Melhorar as abas;
-Organizar estrutura do HTML e estilizar o CSS.
+Organizar espaçamento do layout no cadastro aluno para dinamização do sistema;
+Padronizar e organizar nomeação do arquivo "lista_aluno";
+Organizar estrutura do HTML de todos arquivos e estilizar o CSS.
  
